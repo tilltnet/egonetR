@@ -1,4 +1,4 @@
-egonetR
+egonetR -> egor
 =======
 
- Please find all further information here: http://tilltnet.github.io/egonetR/
+ egonetR is continued as egor: https://github.com/tilltnet/egor
